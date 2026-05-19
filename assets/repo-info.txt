@@ -1,0 +1,3 @@
+experiment-execution
+
+Four-Campaign Experiment Execution Engine — designs experiments, analyzes constraints, plans scenarios, and executes with result collection across the full research lifecycle.
